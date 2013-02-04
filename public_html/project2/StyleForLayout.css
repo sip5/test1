@@ -1,0 +1,150 @@
+#wrapper {
+    border: 1px solid;
+    background-color: blue;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#banner {
+
+    background-color: blue;
+    height: 100px;
+   line-height: 100px;
+}
+
+#primaryLink {
+    background-color: green;
+    height: 50px;
+    line-height: 50px;	
+    word-spacing: 50px;
+    Text-decoration: none;
+}
+#secondaryLink {
+    background-color: yellow;
+    height: 50px;
+    line-height: 50px;
+    word-spacing: 50px;
+    
+}
+#left {
+    background-color: orange;
+    width: 25%;
+    min-height: 400px;
+    float: left;
+    text-align: left;
+    
+    }
+#center {
+    
+    background-color: violet;
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+#right {
+    background-color: pink;
+     width: 25%;
+    height: 400px;
+    float: left;
+}
+#footer {
+    
+    background-color: red;
+    clear: both;
+    height: 100px;
+    
+}
+#leftNav{
+    list-style-type: none;
+    margin: 2px;
+    padding: 10px;
+    text-align: left;
+    Text-decoration: none;
+}
+.block {
+    text-align: center;
+}
+#shLink
+{
+list-style-type:none;
+margin:0;
+padding:0;
+Text-decoration: none;
+}
+#phLink
+{
+list-style-type:none;
+margin:0;
+padding:0;
+Text-decoration: none;
+}
+.li{
+    display: inline;
+    Text-decoration: none;
+
+}
+.a:hover {
+    background-color: red;
+    color:green;
+    Text-decoration: none;
+}
+.a:link {
+Text-decoration: none;
+}
+
+#boxrun{
+
+width:20px;
+height:20px;
+background:red;
+position:relative;
+animation:myfirst 10s infinite;
+animation-direction:alternate;
+/* Firefox */
+-moz-animation:myfirst 10s infinite;
+-moz-animation-direction:alternate;
+/* Safari and Chrome */
+-webkit-animation:myfirst 10s infinite;
+-webkit-animation-direction:alternate;
+/* Opera */
+-o-animation:myfirst 10s infinite;
+-o-animation-direction:alternate;
+}
+
+@keyframes myfirst
+{
+0%   {background:red; left:0px; top:0px;}
+25%  {background:yellow; left:700px; top:0px;}
+50%  {background:blue; left:200px; top:700px;}
+75%  {background:green; left:0px; top:700px;}
+100% {background:red; left:0px; top:0px;}
+}
+
+@-moz-keyframes myfirst /* Firefox */
+{
+0%   {background:red; left:0px; top:0px;}
+25%  {background:yellow; left:200px; top:0px;}
+50%  {background:blue; left:200px; top:200px;}
+75%  {background:green; left:0px; top:200px;}
+100% {background:red; left:0px; top:0px;}
+}
+
+@-webkit-keyframes myfirst /* Safari and Chrome */
+{
+0%   {background:red; left:0px; top:0px;}
+25%  {background:yellow; left:940px; top:0px;}
+50%  {background:blue; left:940px; top:700px;}
+75%  {background:green; left:0px; top:700px;}
+100% {background:red; left:0px; top:0px;}
+}
+
+@-o-keyframes myfirst /* Opera */
+{
+0%   {background:red; left:0px; top:0px;}
+25%  {background:yellow; left:200px; top:0px;}
+50%  {background:blue; left:200px; top:200px;}
+75%  {background:green; left:0px; top:200px;}
+100% {background:red; left:0px; top:0px;}
+        </div>
+}

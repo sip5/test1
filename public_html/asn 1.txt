@@ -1,0 +1,318 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<html>
+
+<body>
+
+
+
+<p></p><h1>Lorem Ipsum h1</h1>
+This is an example of <dfn>Heading 1</dfn> element.</P>
+
+<p><h2>Lorem Ipsumn h2</h2>
+This is an example of <dfn>Heading 2</dfn> element.</P>
+
+<p><h3>Lorem Ipsum h3</h3>
+This is an example of <dfn>Heading 3</dfn> element.</P>
+
+<p><h4>Lorem Ipsum h4</h4>
+This is an example of <dfn>Heading 4</dfn> element.</P>
+
+<p><h5>Lorem Ipsum h5</h5>
+This is an example of <dfn>Heading 5</dfn> element.</P>
+
+<p><h6>Lorem Ipsum h6</h6>
+This is an example of <dfn>Heading 6</dfn> element.</P>
+
+<p><strong>Lorem Ipsum Bold</strong>
+This is an example of <dfn>strong</dfn> element.</P>
+
+<p><i>Lorem Ipsum Italic</i>
+This is an example of <dfn>i</dfn> element.</P>
+
+<p>(x<sub>a</sub>+x<sub>b</sub>)<sup>2</sup>=x<sub>a</sub><sup>2</sup>+2x<sub>a</sub>x<sub>b</sub>+x<sub>b</sub><sup>2<br />
+This is an example of <dfn>sub</dfn> and <dfn>sup</dfn> elements.</P>
+<hr \>
+  
+<p><em>Emphasized text</em><br />
+This is an example of <dfn>em</dfn> element.</P>
+
+<p><strong>Strong text</strong><br />
+This is an example of <dfn>strong</dfn> element.</P>
+
+<p><dfn>Definition term</dfn><br />
+This is an example of <dfn>dfn</dfn> element.</P>
+
+
+
+
+
+<p><cite>Citation</cite><br />
+This is an example of <dfn>cite</dfn> element.</P>
+
+<p><del>2=5+7</del><br/>
+This is an example of <dfn>del</dfn> element.</P>
+
+<p><s>The Sun rises in the west.</s><br/>
+This is an example of <dfn>s</dfn> element.</P>
+
+<p><abbr><abbr title="New Jersey Institute of Technology">NJIT</abbr> was founded in 1948.<br/>
+This is an example of <dfn>abbr</dfn> element.</P>
+
+<p>My favorite class is <ins>IS 117</ins><br/>
+This is an example of <dfn>ins</dfn> element.
+
+<blockquote><p>
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+It has survived not only five centuries, but also the leap into electronic typesetting,
+remaining essentially unchanged. 
+</blockquote><br/>
+This was an example of <dfn>blockquote</dfn>.</p>
+
+<address><p>B-34 Sachchidanand Society<br/>New Sama Road<br/>Baroda, Gujarat, India 390024<br/></address>
+This is an example of <dfn>address</dfn> element.</p>
+
+<hr \>
+<ol><strong>To Do List (Ordered List)</strong>
+
+<li>Monday
+<ol>
+<li>Class
+<ol>
+<li>CS 280</li>
+<li>PE 141</li>
+<li>IS 350</li>
+</ol></li>
+<li>game
+<ol>
+<li>Mat Pickup</li>
+<li>mat nailing</li>
+<li>toss</li>
+</ol></li>
+<li>homework
+<ol>
+<li>CS 280 parsing </li>
+<li>IS 350 ethical Paper</li>
+
+</ol></li>
+</ol></li>
+
+<li>Tuesday
+<ol>
+<li>Class
+<ol>
+<li>CS 341</li>
+<li>MATH 333</li>
+<li>MGMT 390</li>
+</ol></li>
+<li>game
+<ol>
+<li>Mat Pickup</li>
+<li>mat nailing</li>
+<li>toss</li>
+<li>warm up</li>
+<li>play</li>
+<li>Wrap Up</li>
+<li>Mat drop off</li>
+</ol></li>
+<li>homework
+<ol>
+<li>class</li>
+<li>game</li>
+<li>homework</li>
+</ol></li>
+</ol></li>
+
+<li>Wednesday
+<ol>
+<li>Class
+<ol>
+<li>CS 280</li>
+<li>PE 141</li>
+<li>IS 350</li>
+</ol></li>
+<li>game
+<ol>
+<li>Mat Pickup</li>
+<li>mat nailing</li>
+<li>toss</li>
+</ol></li>
+<li>homework
+<ol>
+<li>class</li>
+<li>game</li>
+<li>homework</li>
+</ol></li>
+</ol></li>
+
+</ol>
+
+<ul><strong>To Do List (Unordered List)</strong>
+
+<li>Monday
+<ul>
+<li>Class
+<ul>
+<li>CS 280</li>
+<li>PE 141</li>
+<li>IS 350</li>
+</ul></li>
+<li>game
+<ul>
+<li>Mat Pickup</li>
+<li>mat nailing</li>
+<li>toss</li>
+</ul></li>
+<li>homework
+<ul>
+<li>CS 280 parsing </li>
+<li>IS 350 ethical Paper</li>
+
+</ul></li>
+</ul></li>
+
+<li>Tuesday
+<ul>
+<li>Class
+<ul>
+<li>CS 341</li>
+<li>MATH 333</li>
+<li>MGMT 390</li>
+</ul></li>
+<li>game
+<ul>
+<li>Mat Pickup</li>
+<li>mat nailing</li>
+<li>toss</li>
+<li>warm up</li>
+<li>play</li>
+<li>Wrap Up</li>
+<li>Mat drop off</li>
+</ul></li>
+<li>homework
+<ul>
+<li>class</li>
+<li>game</li>
+<li>homework</li>
+</ul></li>
+</ul></li>
+
+<li>Wednesday
+<ul>
+<li>Class
+<ul>
+<li>CS 280</li>
+<li>PE 141</li>
+<li>IS 350</li>
+</ul></li>
+<li>game
+<ul>
+<li>Mat Pickup</li>
+<li>mat nailing</li>
+<li>toss</li>
+</ul></li>
+<li>homework
+<ul>
+<li>class</li>
+<li>game</li>
+<li>homework</li>
+</ul></li>
+</ul></li>
+
+</ul>
+<hr \>
+<strong>Department</strong>
+
+<select>
+
+  <option>IS</option>
+
+  <option>CS</option>
+
+  <option>MGMT</option>
+
+  <option>MATH</option>
+
+  <option>PE</option>
+
+  <option>CHEM</option>
+
+  <option>BIO</option>
+
+  <option>PHY</option>
+
+</select><br/><hr \>
+
+<a href="http://www.njit.edu">NJIT Official Website</a><br/>
+<a href="http://www.njit.edu" target="_blank">NJIT in a new tab</a> 
+
+<table border="1">
+  
+</style>
+  <thead>
+  <tr>
+    <th>SKU</th>
+    <th>COST PRICE</th>
+    <th>SHIPMENT</th>
+    <th>NET PRICE</th>
+    <th>SELLING PRICE</th>
+    <th>PROFIT</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>1</td>
+    <td>$10</td>
+    <td>$1</td>
+    <td>$11</td>
+    <td>$21</td>
+    <td>$10</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>$20</td>
+    <td>$1</td>
+    <td>$21</td>
+    <td>$41</td>
+    <td>$20</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>$30</td>
+    <td>$1</td>
+    <td>$31</td>
+    <td>$41</td>
+    <td>$10</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>$40</td>
+    <td>$1</td>
+    <td>$41</td>
+    <td>$51</td>
+    <td>$10</td>
+  </tr>
+  </tbody>
+  <tfoot>
+  <tr>
+    <td>T</td>
+    <td>$100</td>
+    <td>$4</td>
+    <td>$104</td>
+    <td>$144</td>
+    <td>$40</td>
+  </tr>
+  </tfoot>
+</table>
+</body>
+
+</html>
+
+
+

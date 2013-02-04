@@ -1,0 +1,137 @@
+#wrapper {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#banner {
+    
+    height: 50px;
+    line-height: 50px;
+    
+}
+
+}
+#title {
+font-family: Helvetica, Arial, sans-serif;
+text-align: center;
+line-height: 100px;
+padding-bottom: auto;
+padding-top: auto;
+}
+
+#primaryLink {
+    
+    height: 50px;
+    line-height: 50px;	
+    word-spacing: 50px;
+    Text-decoration: none;
+    clear: both;
+}
+#secondaryLink {
+    
+    height: 50px;
+    line-height: 50px;
+    word-spacing: 50px;
+    text-decoration: none;
+    clear: both;
+}
+#left {
+    
+    width: 25%;
+    min-height: 400px;
+    float: left;
+    text-align: left;
+    }
+#center {
+    width: 50%;
+    min-height: 400px;
+    float: left;
+    table-layout: auto;
+    overflow: hidden;
+}
+#table {
+color: black;
+}
+#right {
+    
+    width: 25%;
+    min-height: 400px;
+    float: left;
+    text-align: left;
+    overflow: hidden;
+}
+#footer {
+   
+    clear: both;
+    height: 100px;
+}
+#leftNav{
+    list-style-type: none;
+    margin: 2px;
+    padding: 10px;
+    text-align: left;
+    Text-decoration: none;
+    margin-bottom: 20px;
+}
+#rightNav{
+    list-style-type: none;
+    margin: 2px;
+    padding: 10px;
+    text-align: left;
+    Text-decoration: none;
+    margin-bottom: 20px;
+}
+.block {
+    text-align: center;
+    
+    font-family: Helvetica, Arial, sans-serif;
+}
+#shLink
+{
+list-style-type:none;
+margin:0;
+Text-decoration: none;
+}
+#phLink
+{
+list-style-type:none;
+margin:0;
+Text-decoration: none;
+}
+#njit{
+    text-decoration: none;
+}
+.li{
+    display: inline;
+    Text-decoration: none;
+}
+
+
+
+.nav_element {
+width: 25%;
+display: inline;
+float: left;
+color:#336600;
+}
+
+
+.tr {
+    background-color: grey;
+}
+.th {
+    background-color: grey;
+}
+.body {
+    background-color: rgb(248,248,248);
+     font-family: Helvetica, Arial, sans-serif;
+}
+#ol {
+    text-align: left;
+}
+.txt {
+   font-family: Helvetica, Arial, sans-serif;
+   color: white;
+}

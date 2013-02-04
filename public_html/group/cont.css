@@ -1,0 +1,131 @@
+#wrapper {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+       background-color: #459C97;
+}
+#banner {
+    background-color: #15A3F2;
+    height: 188px;
+    
+}
+#banner h1 {
+    color: #038C8C;
+}
+#primaryLink {
+    background-color:#C9F0B1; 
+    height: 50px;
+    line-height: 50px;	
+    word-spacing: 50px;
+    Text-decoration: none;
+    clear: both;
+    list-style-type: none;
+}
+#primaryLink li {
+    display: inline;
+    text-decoration: none;
+    list-style-type: none;
+}
+#primaryLink a {
+    display: inline;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+#primaryLink a:hover {
+background-color: #92CCA5;
+    color: white;
+    border-radius:10px;
+    margin: 0px;
+    padding-bottom: 16px;
+    padding-top: 16px;
+}
+#content {
+    background-color: #459C97;
+    width: 367px;
+    min-height: 400px;
+    float: left;
+    text-align: left;
+    text-decoration: none;
+    list-style-type: none;
+    }
+#content img{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+    #left li {
+    list-style-type:none;
+    text-decoration: none;
+    }
+#content a {
+    text-decoration: none;
+    list-style-type: none;
+}
+#left {
+    width: 593px;
+    background-color: #459C97;
+    min-height: 400px;
+    float: left;
+    table-layout: auto;
+   
+    text-align: left;
+    color: white;
+    line-height: 20px;
+}
+#left p {
+    text-align: justify;
+
+    padding: 5px;
+    
+}
+#left img {
+    padding: 5px;
+}
+#footer {
+    background-color: #184A8C;
+    clear: both;
+    color: white;
+    height: 100px;
+}
+.block {
+    text-align: center;
+    background-color: rgb(248,248,248);
+    font-family: Helvetica, Arial, sans-serif;
+}
+.a:hover {
+    background-color:#85ad33;
+    color: white;
+    border-radius:10px;
+    margin: 0px;
+    padding-right:50px;
+    padding-left:50px;
+    padding-bottom: 17px;
+    padding-top: 16.5px;
+}
+.a:link {
+color: #D97652;
+text-decoration: none;
+}
+.la:link{
+    color: #D97652;
+    text-decoration: none;
+}
+.la:hover{
+    background-color: #184A8C;
+    color: white;
+    border-radius:10px;
+    margin: 0px;
+    padding-right:20px;
+    padding-left:20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.body {
+    background-color: rgb(248,248,248);
+     font-family: Helvetica, Arial, sans-serif;
+}
+.txt {
+   font-family: Helvetica, Arial, sans-serif;
+   color: white;
+   text-align: left;
+}

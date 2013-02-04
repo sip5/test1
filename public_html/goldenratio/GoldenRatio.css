@@ -1,0 +1,32 @@
+#wrapper {
+    
+    background-color: blue;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+#left{
+    width: 545px;
+    min-height: 475px;
+    background-color: red;
+    float: LEFT;
+    padding-left: 24px;
+    padding-right: 24px;
+    overflow: hidden;
+}
+#right{
+    width: 367px;
+    min-height: 475px;
+    background-color: green;
+    float: left;
+}
+#header{
+    width:960px;
+    height: 118px;
+}
+#txt_left {
+    font-family: "georgia";
+    font-size: 12px;
+    line-height: 21px;
+}
